@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bathroom</title>
+    <g id="Bathroom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" stroke="#0D1522" stroke-width="2">
+            <g id="Bathroom-48px" transform="translate(2.000000, 3.000000)">
+                <path d="M41,25 L41,29 C41,34.5228475 36.5228475,39 31,39 L13,39 C7.4771525,39 3,34.5228475 3,29 L3,25 L41,25 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle" x="0" y="21" width="44" height="4" rx="2"></rect>
+                <path d="M4,21 L4,2 C4,0.666666667 4.66666667,0 6,0 C7.33333333,0 8.33333333,0.666666667 9,2" id="Path-5"></path>
+                <path d="M9,9 L16,2 C12.5,0.833333333 10.1666667,0.833333333 9,2 C7.83333333,3.16666667 7.83333333,5.5 9,9 Z" id="Path-6" stroke-linejoin="round"></path>
+                <line x1="8" y1="38" x2="8" y2="41" id="Line-9" stroke-linecap="round"></line>
+                <line x1="36" y1="38" x2="36" y2="41" id="Line-9-Copy" stroke-linecap="round"></line>
+                <circle id="Oval" cx="34.5" cy="12.5" r="2.5"></circle>
+                <circle id="Oval-Copy" cx="24" cy="15" r="3"></circle>
+                <circle id="Oval" cx="34" cy="3" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

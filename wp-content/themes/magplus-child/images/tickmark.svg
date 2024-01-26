@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="32px" viewBox="0 0 42 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="check-mark" stroke="#0DA2F5">
+    <polyline transform="translate(-8, -20)" id="check" style="stroke:inherit" fill="none" stroke-width="4" stroke-linecap="square" points="11.5994318 32.0075048 19.3353985 36.1967931 29.4685218 21.9539655"></polyline>
+  </g>
+</svg>
